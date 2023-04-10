@@ -1,0 +1,19 @@
+body{
+    font-family: "Lucida Console";
+    min-height: 100vh;
+    overflow-x: hidden; 
+}
+h1{
+    text-align: center;
+}
+.header{
+    position: fixed;
+    min-width: 100vw;
+}
+.posts{
+    position: relative;
+    top: 20vh;
+    left: 10vw;
+    inline-size: 80vw;
+    overflow-wrap: break-word;
+}
