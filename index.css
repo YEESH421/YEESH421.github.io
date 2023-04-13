@@ -1,6 +1,6 @@
 
 body{
-    font-family: "Lucida Console";
+    font-family: "Lucida Console", "Verdana";
     min-height: 100vh;
     /* Center vertically and horizontally */
     display: flex;
